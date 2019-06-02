@@ -136,8 +136,8 @@ class pluginShowNodePiLab extends Plugin
         return $html;
     }
 
-    // Method called on the siteBodyEnd of the website
-    public function siteBodyEnd()
+    // Method called on the siteSidebar of the website
+    public function siteSidebar()
     {
         global $L;
 
