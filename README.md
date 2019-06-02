@@ -1,4 +1,4 @@
-# show-node-pilab
+# Show Node - Pi Lab
 Bludit Plugin - Displays current node for a site setup on a cluster
 
 Will display in the side bar of the site using `siteSidebar()`. 
