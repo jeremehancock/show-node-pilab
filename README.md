@@ -1,5 +1,5 @@
 # Show Node - Pi Lab
-Bludit Plugin - Displays current node for a site setup on a cluster
+Bludit Plugin - Displays current node for a site setup on a cluster. Also allows for adding a port used for a "dev" node which will provide a link to the Bludit Admin Panel.
 
 Will display in the side bar of the site using `siteSidebar()`. 
 
