@@ -5,7 +5,7 @@ Display in the template using `<?php Theme::plugins('siteShowNode'); ?>`.
 
 This plugin was built for [Pi Lab](https://pilab.dev).
 
-Compatibility: 3.13 - 3.20
+Compatibility: 3.9 - 3.20
 
 ## How to install
 1. Download the latest version from the zips directory.
