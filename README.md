@@ -19,4 +19,6 @@ Compatibility: 3.13 - 3.20
 
 ## AI Assistance Disclosure
 
-This plugin was originally developed without AI assistance. However, the latest version(s) have been updated with the use of AI.
+This plugin was originally developed without AI assistance. 
+
+However, the latest version(s) have been updated with the use of AI.
