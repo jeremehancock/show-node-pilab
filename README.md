@@ -5,7 +5,7 @@ Display in the template using `<?php Theme::plugins('siteShowNode'); ?>`.
 
 This plugin was built for [Pi Lab](https://pilab.dev).
 
-Compatibility: 3.9.x
+Compatibility: 3.13 - 3.20
 
 ## How to install
 1. Download the latest version from the zips directory.
@@ -16,3 +16,7 @@ Compatibility: 3.9.x
 1. Go to the **Admin panel**, on the left sidebar go to **Settings > Plugins**.
 2. Look for the plugin on the list and click **Activate**.
 3. Click **Settings** on the plugin list for the plugin to configure.
+
+## AI Assistance Disclosure
+
+This plugin was originally developed without AI assistance. However, the latest version(s) have been updated with the use of AI.
